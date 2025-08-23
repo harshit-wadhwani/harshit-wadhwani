@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there, I'm Harshit Wadhwani 👋
 
-<!--
-**harshit-wadhwani/harshit-wadhwani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+🚀 Full Stack Generative AI Engineer at GSK
+🌍 Based in Banaglore, India
+💡 Passionate about Python, LLMs, Agents, Machine Learning, Self Hosting, Open Source
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshitwadhwani/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://www.harshitwadhwani.dev/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:harshit4work@gmail.com)
+
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit-wadhwani&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</div>
