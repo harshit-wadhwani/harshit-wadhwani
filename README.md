@@ -3,7 +3,9 @@
 ## About Me
 
 🚀 Full Stack Generative AI Engineer at GSK
+
 🌍 Based in Banaglore, India
+
 💡 Passionate about Python, LLMs, Agents, Machine Learning, Self Hosting, Open Source
 
 ## Connect with Me
