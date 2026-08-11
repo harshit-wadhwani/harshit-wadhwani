@@ -1,0 +1,93 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Harshit Wadhwani, AI Engineer</title>
+  <desc id="desc">Profile banner for Harshit Wadhwani, an AI engineer building generative AI and agentic systems.</desc>
+
+  <defs>
+    <linearGradient id="background" x1="74" y1="20" x2="1128" y2="338" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#081426"/>
+      <stop offset="0.52" stop-color="#0B1D35"/>
+      <stop offset="1" stop-color="#07101E"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="166" y1="82" x2="821" y2="292" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#62E8FF"/>
+      <stop offset="0.48" stop-color="#5AA7FF"/>
+      <stop offset="1" stop-color="#A478FF"/>
+    </linearGradient>
+    <radialGradient id="glowBlue" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(978 84) rotate(141.8) scale(343 278)">
+      <stop stop-color="#1877F2" stop-opacity="0.33"/>
+      <stop offset="1" stop-color="#1877F2" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowPurple" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1080 314) rotate(-137.5) scale(264 203)">
+      <stop stop-color="#8B5CF6" stop-opacity="0.24"/>
+      <stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#B8D8FF" stroke-opacity="0.055"/>
+    </pattern>
+    <filter id="softGlow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="6"/>
+    </filter>
+    <clipPath id="clip">
+      <rect width="1200" height="360" rx="28"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="360" fill="url(#background)"/>
+    <rect width="1200" height="360" fill="url(#grid)"/>
+    <rect width="1200" height="360" fill="url(#glowBlue)"/>
+    <rect width="1200" height="360" fill="url(#glowPurple)"/>
+
+    <path d="M-14 319C152 249 232 389 404 315C577 241 641 288 769 226C897 165 1018 155 1216 189" stroke="url(#accent)" stroke-opacity="0.14" stroke-width="2"/>
+    <path d="M-29 337C135 267 229 405 404 332C579 258 643 306 773 244C903 182 1014 174 1232 207" stroke="url(#accent)" stroke-opacity="0.07"/>
+
+    <g opacity="0.9">
+      <circle cx="1015" cy="178" r="103" stroke="#71C7FF" stroke-opacity="0.16"/>
+      <circle cx="1015" cy="178" r="70" stroke="#9C7CFF" stroke-opacity="0.18"/>
+      <circle cx="1015" cy="178" r="34" fill="#0E2747" stroke="#70DEFF" stroke-opacity="0.54"/>
+      <circle cx="1015" cy="178" r="9" fill="#7DE7FF"/>
+      <circle cx="1015" cy="178" r="14" fill="#7DE7FF" opacity="0.3" filter="url(#softGlow)"/>
+      <circle cx="914" cy="158" r="6" fill="#68B8FF"/>
+      <circle cx="1080" cy="119" r="5" fill="#A58AFF"/>
+      <circle cx="1059" cy="240" r="7" fill="#68E1FF"/>
+      <path d="M920 158H969M1064 138L1077 123M1035 211L1055 236" stroke="#8CCEFF" stroke-opacity="0.42"/>
+      <rect x="883" y="127" width="55" height="55" rx="15" fill="#0C223D" stroke="#5FC8FF" stroke-opacity="0.25"/>
+      <path d="M899 157L909 147L918 157L928 147" stroke="#7AE4FF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      <rect x="1070" y="88" width="45" height="45" rx="13" fill="#161F42" stroke="#9B82FF" stroke-opacity="0.3"/>
+      <path d="M1084 110H1101M1092.5 101V119" stroke="#B8A6FF" stroke-width="2.5" stroke-linecap="round"/>
+      <rect x="1037" y="229" width="54" height="54" rx="15" fill="#0C273D" stroke="#62DDF1" stroke-opacity="0.28"/>
+      <circle cx="1053" cy="256" r="4" fill="#82E8F8"/>
+      <circle cx="1075" cy="244" r="4" fill="#82E8F8"/>
+      <circle cx="1075" cy="267" r="4" fill="#82E8F8"/>
+      <path d="M1057 254L1071 246M1057 258L1071 265" stroke="#82E8F8" stroke-width="2"/>
+    </g>
+
+    <g font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+      <rect x="70" y="58" width="205" height="30" rx="15" fill="#102B49" stroke="#66D9FF" stroke-opacity="0.22"/>
+      <circle cx="89" cy="73" r="4" fill="#66E2FF"/>
+      <text x="102" y="78" fill="#B9EFFF" font-size="13" font-weight="600" letter-spacing="1.4">BENGALURU, INDIA</text>
+
+      <text x="68" y="150" fill="#F4F8FF" font-size="58" font-weight="750" letter-spacing="-1.8">Harshit Wadhwani</text>
+      <rect x="70" y="174" width="84" height="4" rx="2" fill="url(#accent)"/>
+      <text x="69" y="218" fill="#89DFFF" font-size="23" font-weight="650" letter-spacing="2.8">AI ENGINEER</text>
+      <text x="247" y="218" fill="#6E87A6" font-size="20">/</text>
+      <text x="268" y="218" fill="#C6D5E8" font-size="20" font-weight="520" letter-spacing="1.4">GENERATIVE AI</text>
+      <text x="449" y="218" fill="#6E87A6" font-size="20">/</text>
+      <text x="470" y="218" fill="#C6D5E8" font-size="20" font-weight="520" letter-spacing="1.4">AGENTIC SYSTEMS</text>
+
+      <text x="70" y="267" fill="#93A8C0" font-size="17" font-weight="420">Building reliable AI systems from first prototype to production.</text>
+
+      <g font-size="12" font-weight="650" letter-spacing="1.1">
+        <rect x="70" y="296" width="70" height="28" rx="8" fill="#112B48"/>
+        <text x="88" y="314.5" fill="#9CDEFF">RAG</text>
+        <rect x="150" y="296" width="119" height="28" rx="8" fill="#112B48"/>
+        <text x="166" y="314.5" fill="#9CDEFF">MULTI-AGENT</text>
+        <rect x="279" y="296" width="82" height="28" rx="8" fill="#112B48"/>
+        <text x="296" y="314.5" fill="#9CDEFF">LLMOPS</text>
+        <rect x="371" y="296" width="78" height="28" rx="8" fill="#112B48"/>
+        <text x="389" y="314.5" fill="#9CDEFF">AZURE</text>
+      </g>
+    </g>
+  </g>
+  <rect x="0.75" y="0.75" width="1198.5" height="358.5" rx="27.25" stroke="#5C789A" stroke-opacity="0.26" stroke-width="1.5"/>
+</svg>
